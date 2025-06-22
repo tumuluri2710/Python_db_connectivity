@@ -1,1 +1,0 @@
-# Python_db_connectivity
